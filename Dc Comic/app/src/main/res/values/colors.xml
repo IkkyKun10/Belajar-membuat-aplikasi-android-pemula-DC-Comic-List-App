@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#96a3a0</color>
+    <color name="colorPrimaryDark">#67827c</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="ungu">#7C4DFF</color>
+    <color name="deep_ungu">#303F9F</color>
+    <color name="bg_accent">#dfe6ed</color>
+    <color name="org">#CDDC39</color>
+</resources>

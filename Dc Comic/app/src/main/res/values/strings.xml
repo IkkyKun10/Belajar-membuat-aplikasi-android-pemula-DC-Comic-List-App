@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">D\'C COMICS</string>
+    <string name="comic_title">Comic Title</string>
+    <string name="description">description si users itu sendiri</string>
+    <string name="followers">( pengikut )</string>
+    <string name="company">Company</string>
+    <string name="following">mengikuti</string>
+    <string name="mengikuti">Mengikuti</string>
+    <string name="pengikut">Pengikut</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+    <string name="name_about">Riezki Maisyar</string>
+    <string name="email_about">riezkymaisyar10@gmail.com</string>
+    <string name="about_me">About Me</string>
+    <string name="genre_comic">genre comic | chapter</string>
+    <string name="overview">Description</string>
+    <string name="overview_detail">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+    <string name="text_splash">D\'C COMICS</string>
+    <string name="email">Email</string>
+    <string name="email_value">riezkymaisyar10@gmail.com</string>
+    <string name="phone">Phone</string>
+    <string name="phone_value">+628-23xx-xxxx-xx</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="sosmed">\@riezkymaisyar</string>
+</resources>
